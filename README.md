@@ -363,7 +363,7 @@ Focused on developing a strong foundation in software engineering and artificial
 ## Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Haris98-Luka&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&hide_border=true&radius=12" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Haris98-Luka&theme=react-dark&hide_border=true&area=true" width="100%"/>
 </p>
 
 ---
